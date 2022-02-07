@@ -7,7 +7,7 @@ sidebar:
     # Profile information
     name: Seongbin Kwon
     tagline: M.S. student in CSDL, POSTECH from Feb. 2022
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: myprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: sasa1501@gmail.com  # postech 메일 생성시 변경 필요
     phone: 010 7657 0090
@@ -27,8 +27,9 @@ sidebar:
       - idiom: English
         level: Intermediate
     interests:
-      - item: Basktetball
+      - item: theology
         link:
+
 career-profile:
     title: Career Profile
     summary: |
@@ -45,10 +46,11 @@ experiences:
       time: 2018 - 2021
       company: SK hynix, Korea
       details: |
-        pass
-            
-          - Bullet point
-          - Bullet point
+        Specialized in Critical Dimension Metrology, Overlay Metrology
+        R&D MI, Division of Research and Development
+          - Scanning Electron Microscope Special Analysis 
+            (CD metrology, overlay metrology, high-throughput metrology)
+          - 
 
 projects:
     title: Projects
