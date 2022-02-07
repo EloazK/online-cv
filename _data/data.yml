@@ -3,7 +3,7 @@
 #
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Seongbin Kwon
     tagline: M.S. student in CSDL, POSTECH from Feb. 2022
@@ -27,6 +27,7 @@ sidebar:
       - idiom: English
         level: Intermediate
     interests:
+    
       - item: theology
         link:
 
@@ -37,10 +38,15 @@ career-profile:
       He is currently on MS-PhD unified course in electrical engineering from the Pohang University of Science and Technology, Pohang, South Korea. 
       His current research interests include design automation in VLSI 
 education:
-    - degree: BS in EE
+    - degree: BS in Electrical Engineering
       university: Hanyang University, Seoul, Korea
       time: 2012 - 2018
       #details: |
+    - degree: MS-Ph.D in Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH)
+      time: 2022 - Present
+      #details: |
+      
 experiences:
     - role: Reaserch Engineer
       time: 2018 - 2021
@@ -49,31 +55,30 @@ experiences:
         Specialized in Critical Dimension Metrology, Overlay Metrology
         R&D MI, Division of Research and Development
           - Scanning Electron Microscope Special Analysis 
-            (CD metrology, overlay metrology, high-throughput metrology)
-          - 
+          - (CD metrology, overlay metrology, high-throughput metrology)
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
 
 skills:
