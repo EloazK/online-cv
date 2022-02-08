@@ -12,7 +12,7 @@ sidebar:
     email: sasa1501@gmail.com  # postech 메일 생성시 변경 필요
     phone: 010 7657 0090
     website: csdl.postech.ac.kr #do not add http://
-    linkedin: Seongbin Kwon
+    linkedin: Seongbin-Kwon
     github: EloazK
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -28,13 +28,14 @@ sidebar:
         level: Intermediate
     interests:
     
-      - item: theology
+      - item: misstionary
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       Seongbin Kwon received the B.S. degree in electronic engineering from Hanyang University, Seoul, South Korea, in 2018. 
+      
       He is currently on MS-PhD unified course in electrical engineering from the Pohang University of Science and Technology, Pohang, South Korea. 
       His current research interests include design automation in VLSI 
 education:
